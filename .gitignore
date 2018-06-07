@@ -3,3 +3,7 @@
 
 #vagrant project file
 .vagrant/
+
+
+#vagrant box file
+*.box
